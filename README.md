@@ -40,3 +40,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4sh-wacker&theme=react-dark&hide_border=true" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m4sh-wacker/m4sh-wacker/output/github-contribution-grid-snake-dark.svg"/>
+</p>

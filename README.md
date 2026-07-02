@@ -41,5 +41,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m4sh-wacker/m4sh-wacker/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/m4sh-wacker/m4sh-wacker/output/snake-dark.svg"/>
 </p>

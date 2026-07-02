@@ -1,7 +1,5 @@
-# ⚡ Mohammad Hosein Sadeghian ⚡
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Offensive+Security+Researcher;Red+Team+Operator;Exploit+Developer;CVE+Hunter;Author+of+OWASP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Mohammad+Hosein+Sadeghian;Offensive+Security+Researcher;Red+Team+Operator;Exploit+Developer;CVE+Hunter;Author+of+OWASP" />
 </p>
 
 

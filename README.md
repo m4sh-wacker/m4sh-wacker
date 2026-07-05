@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/m4sh_wacker">
+  <a href="https://linkedin.com/in/m4sh-wacker">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

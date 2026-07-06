@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://t.me/m4sh_wacker">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
   <a href="mailto:contact@m4sh.ir">
@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://linkedin.com/in/m4sh-wacker">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" />
   </a>
 </p>
 

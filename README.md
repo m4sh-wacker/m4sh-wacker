@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/m4sh_wacker">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:contact@m4sh.ir">
+    <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=protonmail&logoColor=00FF66" />
   </a>
 
   <a href="https://linkedin.com/in/m4sh-wacker">
